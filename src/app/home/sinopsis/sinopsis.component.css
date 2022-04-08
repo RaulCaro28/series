@@ -1,0 +1,17 @@
+h1{
+    text-align: center;
+}
+
+.example-card {
+    max-width: 250px;
+  }
+
+img{
+    height: 350px;
+}
+
+.contenedor{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
